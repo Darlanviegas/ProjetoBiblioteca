@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Biblioteca\bin\Debug\net6.0\Projeto Biblioteca.exe
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Biblioteca\bin\Debug\net6.0\Projeto Biblioteca.deps.json
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Biblioteca\bin\Debug\net6.0\Projeto Biblioteca.runtimeconfig.json
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Biblioteca\bin\Debug\net6.0\Projeto Biblioteca.dll
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Biblioteca\bin\Debug\net6.0\ref\Projeto Biblioteca.dll
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Biblioteca\bin\Debug\net6.0\Projeto Biblioteca.pdb
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Biblioteca\obj\Debug\net6.0\Projeto Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Biblioteca\obj\Debug\net6.0\Projeto Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Biblioteca\obj\Debug\net6.0\Projeto Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Biblioteca\obj\Debug\net6.0\Projeto Biblioteca.AssemblyInfo.cs
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Biblioteca\obj\Debug\net6.0\Projeto Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Biblioteca\obj\Debug\net6.0\Projeto Biblioteca.dll
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Biblioteca\obj\Debug\net6.0\ref\Projeto Biblioteca.dll
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Biblioteca\obj\Debug\net6.0\Projeto Biblioteca.pdb
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Projeto Biblioteca\obj\Debug\net6.0\Projeto Biblioteca.genruntimeconfig.cache
